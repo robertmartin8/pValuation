@@ -1,5 +1,5 @@
 <p align="center">
-    <img width=100% src="https://github.com/robertmartin8/pValuation/blob/master/media/logo_v0.png">
+    <img width=80% src="https://github.com/robertmartin8/pValuation/blob/master/media/logo_v0.png">
 </p>
 
 <p align="center">
