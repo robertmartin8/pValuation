@@ -29,7 +29,7 @@ Some of my particular interests include:
   - visualising the growth rates implied by the current S&P500 price
   - accompanying [blog post](https://reasonabledeviations.com/2020/03/25/coronavirus-equity-expectations/)
 - Revenue forecasting models of DHT Holdings, an oil tanker company:
-  - version 1 is a standard excel model, using the futures curve to estimate an upper bound on charter rates
+  - version 1 is a standard excel model, using the futures curve to estimate an upper bound on charter rates. See the [blog post](https://reasonabledeviations.com/2020/04/24/oil-storage/)
   - version 2 pulls charter data from the TankersInternational twitter feed
 
 ## What this project is not
