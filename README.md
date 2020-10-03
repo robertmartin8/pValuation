@@ -20,11 +20,14 @@ In statistics, the *p*-value is often used to decide whether to accept or reject
 Some of my particular interests include:
 
 - Financial model explainability
-- Probabilistic programming, to ensure that model output includes an uncertainty that reflects the uncertainty of the inputs
+- Probabilistic programming to ensure that model output includes an uncertainty that reflects the uncertainty of the inputs
 - The general use of data-driven techniques to estimate model inputs
 
 ## Currently implemented
 
+- Option-implied price distributions
+  - using the pricing of butterfl spreads to infer the probabilities of particular price movements
+  - accompanying [blog post](https://reasonabledeviations.com/2020/10/01/option-implied-pdfs/)
 - Market-implied expectations of COVID-19 using valuation surfaces
   - visualising the growth rates implied by the current S&P500 price
   - accompanying [blog post](https://reasonabledeviations.com/2020/03/25/coronavirus-equity-expectations/)
@@ -34,4 +37,4 @@ Some of my particular interests include:
 
 ## What this project is not
 
-This project is *not* meant to be a library of software that other people will find useful. To that end, the code will be minimally documented, fragile, and probably quite niche. But by all means, [reach out](https://reasonabledeviations.com/about/) to me if you have a question about it or want to discuss.
+This project is *not* meant to be a library of software that other people will find useful. To that end, I am not placing much emphasis on documentation and best-practices. This is a space for me to rapidly iterate and do some research into a pretty niche area. By all means, [reach out](https://reasonabledeviations.com/about/) to me if you have a question about it or want to discuss.
