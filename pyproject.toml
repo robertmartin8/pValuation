@@ -22,7 +22,8 @@ pytest = "^5.2"
 black = {version = "^21.12b0", allow-prereleases = true}
 ipython = "^7.30.1"
 ipykernel = "^6.6.0"
-jupyter = "^1.0.0"
+jupyterlab = "^3.4.2"
+
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
